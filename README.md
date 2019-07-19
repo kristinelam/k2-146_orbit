@@ -1,3 +1,3 @@
 # k2-146_orbit
 
-![](animation.gif)
+![](k2-146_orbit_small.gif)
