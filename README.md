@@ -1,11 +1,11 @@
 ## The multi-planet system K2-146
 
-### K2-146 is a M3.0V star hosting 2 mini-Neptunes. The inner and outer planets have orbital periods of around 2.6 days and 4.0 days respectively, showing a near 3:2 period commensurability.
+K2-146 is a M3.0V star hosting 2 mini-Neptunes. The inner and outer planets have orbital periods of around 2.6 days and 4.0 days respectively, showing a near 3:2 period commensurability.
 
-### If you want to read more about the analysis of this system, a submitted version of my paper is available on arXiv via this [link](https://arxiv.org/submit/2780404)
+If you want to read more about the analysis of this system, a submitted version of my paper is available on arXiv via this [link](https://arxiv.org/submit/2780404)
 
-### An independent paper on the characterisation of this system is also available via this [link](https://arxiv.org/submit/)
+An independent paper on the characterisation of this system is also available via this [link](https://arxiv.org/submit/)
 
-### Below is an animation showing the orbits of K2-146 b and c.
+Below is an animation showing the orbits of K2-146 b and c.
 
 ![](k2-146_orbit_small.gif)
